@@ -117,6 +117,8 @@ class IntroState extends FlxState
 
             FlxG.log.warn('Platform not supported!');
 
+            FlxG.switchState(new TitleState());
+
             return;
 
             #end
