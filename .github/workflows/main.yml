@@ -39,10 +39,10 @@ jobs:
         run: echo "${{github.run_id}}" > VERSION
 
       - name: Compile
-        run: haxelib run lime build mac --app-version="4.0.0-${{ github.run_id}}"
+        run: haxelib run lime build mac -debug --app-version="4.0.0-${{ github.run_id}}"
 
       - name: Publish Artifact
         uses: actions/upload-artifact@v4
         with:
           name: macBuild
-          path: export/release/macos/bin
+          path: export/debug/macos/bin
