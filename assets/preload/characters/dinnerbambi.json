@@ -1,0 +1,22 @@
+{
+	"animations": [
+		{ "anim": "idle", "name": "idle", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singLEFT", "name": "left", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singDOWN", "name": "down", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singUP", "name": "up", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singRIGHT", "name": "right", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singLEFT-alt", "name": "altleft", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singDOWN-alt", "name": "altdown", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singUP-alt", "name": "altup", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singRIGHT-alt", "name": "altright", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] }
+	],
+	"no_antialiasing": true,
+	"image": "characters/dinnerbambi",
+	"position": [0, 0],
+	"healthicon": "dinnernew",
+	"flip_x": false,
+	"healthbar_colors": [20, 248, 69],
+	"camera_position": [0, 50],
+	"sing_duration": 4,
+	"scale": 3
+}

@@ -1,0 +1,19 @@
+{
+	"animations": [
+		{ "anim": "idle", "name": "idle", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "whatsup", "name": "whatsup", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singLEFT", "name": "LEFT", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singDOWN", "name": "DOWN", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singUP", "name": "UP", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] },
+		{ "anim": "singRIGHT", "name": "RIGHT", "fps": 24, "loop": false, "indices": [], "offsets": [0, 0] }
+	],
+	"no_antialiasing": true,
+	"image": "characters/bidu",
+	"position": [600, 100],
+	"healthicon": "bidu",
+	"flip_x": false,
+	"healthbar_colors": [102, 162, 232],
+	"camera_position": [-20, 0],
+	"sing_duration": 6.1,
+	"scale": 3
+}
