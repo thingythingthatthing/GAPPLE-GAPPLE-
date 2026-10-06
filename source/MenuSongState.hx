@@ -33,13 +33,21 @@ class MenuSongState extends MusicBeatState
 	private var camAchievement:FlxCamera;
 	
 	var optionShit:Array<String> = [
+		'orthogonal',
 		'disruption',
 		'applecore',
+		'dynamics',
+		'frustration',
 		'disability',
 		'wireframe',
 		'algebra',
+		'freshntoasted'
 		'deformation',
 		'ferocious',
+		'nice',
+		'jambino'
+		'future',
+		'kirbathon',
 		'extras'
 	];
 
@@ -318,7 +326,7 @@ class MenuSongState extends MusicBeatState
 		bg.updateHitbox();
 		bg.screenCenter();
 
-		var optionShit:Array<String> = ['disruption', 'applecore', 'disability', 'wireframe', 'algebra', 'deformation', 'ferocious', 'extras'];
+		var optionShit:Array<String> = ['orthogonal', 'disruption', 'applecore', 'dynamics', 'frustration', 'disability', 'wireframe', 'algebra','freshntoasted', 'deformation', 'ferocious', 'nice', 'jambino', 'future', 'kirbathon', 'extras'];
 	}
 	public static function randomizeBG():flixel.system.FlxAssets.FlxGraphicAsset
 
