@@ -41,11 +41,11 @@ class MenuSongState extends MusicBeatState
 		'disability',
 		'wireframe',
 		'algebra',
-		'freshntoasted'
+		'freshntoasted',
 		'deformation',
 		'ferocious',
 		'nice',
-		'jambino'
+		'jambino',
 		'future',
 		'kirbathon',
 		'extras'
