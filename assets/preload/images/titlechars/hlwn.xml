@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hlwn.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hlwn-danceLeft0000" x="0" y="0" width="924" height="745" frameX="0" frameY="-1" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0001" x="0" y="0" width="924" height="745" frameX="0" frameY="-1" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0002" x="929" y="0" width="924" height="745" frameX="0" frameY="-1" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0003" x="929" y="0" width="924" height="745" frameX="0" frameY="-1" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0004" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0005" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0006" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0007" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0008" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0009" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0010" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0011" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0012" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0013" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceLeft0014" x="1858" y="0" width="924" height="745" frameX="0" frameY="0" frameWidth="924" frameHeight="746"/>
+	<SubTexture name="hlwn-danceRight0000" x="2787" y="0" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0001" x="2787" y="0" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0002" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0003" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0004" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0005" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0006" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0007" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0008" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0009" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0010" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0011" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0012" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0013" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="hlwn-danceRight0014" x="929" y="750" width="924" height="745"/>
+</TextureAtlas>

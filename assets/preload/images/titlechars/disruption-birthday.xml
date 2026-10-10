@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="disruption-birthday.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="disruption-birthday0000" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="disruption-birthday0001" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="disruption-birthday0002" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="disruption-birthday0003" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="disruption-birthday0004" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="disruption-birthday0005" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="disruption-birthday0006" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="disruption-birthday0007" x="0" y="750" width="924" height="745"/>
+</TextureAtlas>
