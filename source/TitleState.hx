@@ -226,10 +226,21 @@ class TitleState extends MusicBeatState
 	var swagShader:ColorSwap = null;
 
 	var titleChars:Array<String> = ['bambi', 'bandu', 'bf', 'dave-scared', 'dave', 'tristan'];
+	var danceChars:Map<String, String> = ['bandu' => 'bandu', 'christmas' => 'xmas', 'hlwn' => 'hlwn'];
 	var titleCharName:String = '';
 
 	function pickTitleChar():String
 	{
+		var now:Date = Date.now();
+		var month:Int = now.getMonth() + 1;
+		var day:Int = now.getDate();
+
+		if (month == 11 && day == 12) return 'applecore-birthday';
+		if (month == 10 && day == 31) return 'disruption-birthday';
+		if (month == 10) return 'hlwn';
+		if (month == 12 && day == 13) return 'gapple-birthday';
+		if (month == 12) return 'christmas';
+
 		return FlxG.random.getObject(titleChars);
 	}
 
@@ -322,10 +333,10 @@ class TitleState extends MusicBeatState
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 				titleCharName = pickTitleChar();
 				gfDance.frames = Paths.getSparrowAtlas('titlechars/' + titleCharName);
-				if (titleCharName == 'bandu')
+				if (danceChars.exists(titleCharName))
 				{
-					gfDance.animation.addByPrefix('danceLeft', 'bandu-danceLeft', 24, false);
-					gfDance.animation.addByPrefix('danceRight', 'bandu-danceRight', 24, false);
+					gfDance.animation.addByPrefix('danceLeft', danceChars.get(titleCharName) + '-danceLeft', 24, false);
+					gfDance.animation.addByPrefix('danceRight', danceChars.get(titleCharName) + '-danceRight', 24, false);
 				}
 				else
 				{
