@@ -225,6 +225,14 @@ class TitleState extends MusicBeatState
 	var titleText:FlxSprite;
 	var swagShader:ColorSwap = null;
 
+	var titleChars:Array<String> = ['bambi', 'bandu', 'bf', 'dave-scared', 'dave', 'tristan'];
+	var titleCharName:String = '';
+
+	function pickTitleChar():String
+	{
+		return FlxG.random.getObject(titleChars);
+	}
+
 	function startIntro()
 	{
 		if (!initialized)
@@ -312,9 +320,20 @@ class TitleState extends MusicBeatState
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
 			//EDIT THIS ONE IF YOU'RE MAKING A SOURCE CODE MOD!!!!
-				gfDance.frames = Paths.getSparrowAtlas('gfDanceTitle');
-				gfDance.animation.addByIndices('danceLeft', 'gfDance', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
-				gfDance.animation.addByIndices('danceRight', 'gfDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+				titleCharName = pickTitleChar();
+				gfDance.frames = Paths.getSparrowAtlas('titlechars/' + titleCharName);
+				if (titleCharName == 'bandu')
+				{
+					gfDance.animation.addByPrefix('danceLeft', 'bandu-danceLeft', 24, false);
+					gfDance.animation.addByPrefix('danceRight', 'bandu-danceRight', 24, false);
+				}
+				else
+				{
+					gfDance.animation.addByPrefix('danceLeft', titleCharName, 24, false);
+					gfDance.animation.addByPrefix('danceRight', titleCharName, 24, false);
+				}
+				gfDance.setGraphicSize(Std.int(gfDance.width * 0.6));
+				gfDance.updateHitbox();
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
 
