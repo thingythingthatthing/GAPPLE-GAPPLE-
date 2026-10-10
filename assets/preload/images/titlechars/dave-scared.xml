@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave-scared.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dave-scared0000" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="dave-scared0001" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="dave-scared0002" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="dave-scared0003" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="dave-scared0004" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0005" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0006" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0007" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0008" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0009" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0010" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0011" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0012" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0013" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0014" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave-scared0015" x="929" y="750" width="924" height="745"/>
+</TextureAtlas>

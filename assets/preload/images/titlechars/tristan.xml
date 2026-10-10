@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tristan.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tristan0000" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="tristan0001" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="tristan0002" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="tristan0003" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="tristan0004" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0005" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0006" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0007" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0008" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0009" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0010" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0011" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0012" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0013" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="tristan0014" x="929" y="750" width="924" height="745"/>
+</TextureAtlas>

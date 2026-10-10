@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dave0000" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="dave0001" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="dave0002" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="dave0003" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="dave0004" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="dave0005" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="dave0006" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0007" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0008" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0009" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0010" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0011" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0012" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0013" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="dave0014" x="929" y="750" width="924" height="745"/>
+</TextureAtlas>

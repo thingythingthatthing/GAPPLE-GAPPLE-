@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bambi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bambi0000" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="bambi0001" x="0" y="0" width="924" height="745"/>
+	<SubTexture name="bambi0002" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="bambi0003" x="929" y="0" width="924" height="745"/>
+	<SubTexture name="bambi0004" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0005" x="0" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0006" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0007" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0008" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0009" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0010" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0011" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0012" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0013" x="929" y="750" width="924" height="745"/>
+	<SubTexture name="bambi0014" x="929" y="750" width="924" height="745"/>
+</TextureAtlas>
