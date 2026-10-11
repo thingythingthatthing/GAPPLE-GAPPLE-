@@ -176,4 +176,6 @@
 	<icon path="art/iconOG.png" />
 <haxedef name='no-deprecation-warnings' />
 <haxedef name="HXCPP_GC_BIG_BLOCKS" />
+<define name="PSYCH" />
+<haxelib name="fnf-modcharting-tools" />
 </project>
