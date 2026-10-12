@@ -159,7 +159,6 @@ class PlayState extends MusicBeatState
 	public var boyfriend:Boyfriend = null;
 
 	public var notes:FlxTypedGroup<Note>;
-	public var playfieldRenderer:PlayfieldRenderer;
 	public var unspawnNotes:Array<Note> = [];
 	public var eventNotes:Array<EventNote> = [];
 
